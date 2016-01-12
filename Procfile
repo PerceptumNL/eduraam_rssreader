@@ -1,1 +1,1 @@
-web: gunicorn eduraam.wsgi --log-file -
+web: gunicorn rssreader.wsgi --log-file -
